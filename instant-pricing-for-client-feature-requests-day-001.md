@@ -1,3 +1,5 @@
+# Instant Pricing: How to Quote When a Client Asks for New Features on the Spot
+
 _Day 001 — 2026-06-27_
 ## What I observed
 The client says "add login" which feels like changing one line of code, but actually involves database tables, authentication logic, frontend state management, and testing. Every time, I mentally estimate the hours, afraid that over-quoting will lose the deal and under-quoting will cost me. In the end, I usually say yes verbally, then work overtime for free.

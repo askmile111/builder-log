@@ -1,3 +1,4 @@
+# How to Find Real Problems Worth Solving on Reddit
 
 _Day 001 — 2026-06-27_
 
